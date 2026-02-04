@@ -1,4 +1,4 @@
-# alpine-nvim-dotfiles
+# min-nvim-dotfiles
 This repo is built from the ground up for lightweight Docker dev containers.
 
 ## Example Dockerfile:
